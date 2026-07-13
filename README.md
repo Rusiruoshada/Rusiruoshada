@@ -316,7 +316,8 @@ CKA
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rusiruoshada&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
