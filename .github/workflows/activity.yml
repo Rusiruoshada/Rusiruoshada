@@ -1,33 +1,24 @@
 name: Update GitHub Activity
 
-
 on:
-
   schedule:
-
     - cron: "0 */6 * * *"
-
-
   workflow_dispatch:
 
-
 jobs:
-
   update:
-
     runs-on: ubuntu-latest
 
-
     steps:
+      # This step pulls your repository files into the runner so the README can be found
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@master
-
+      # This step runs your activity action
+      - name: Update GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
-
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
         with:
-
           COMMIT_MSG: "⚡ Update recent activity"
-
           MAX_LINES: 10
