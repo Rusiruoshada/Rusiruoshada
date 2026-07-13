@@ -646,15 +646,15 @@ GOAL
 
 # ☕ Support My Work
 
-<div align="center">
+<!-- <div align="center">
 
-<a href="https://www.buymeacoffee.com/cycosad">
+<a href="https://www.buymeacoffee.com/rusiruoshada">
 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/>
 
 </a>
 
-</div>
+</div> -->
 
 
 ---
