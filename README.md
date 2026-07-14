@@ -4,13 +4,18 @@
 
 </div>
 
+
 <div align="center">
 
 <h1>👨‍💻 Hello, I'm Rusiru Oshada</h1>
 
 <h3>💻 3rd Year BIT Undergraduate @ UCSC</h3>
 
-<h3>🚀 Full Stack Developer | Building DevOps Skills</h3>
+<p>
+🚀 Full Stack Developer <br>
+☁️ Building DevOps Skills <br>
+🌱 Learning Cloud & Automation
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Modern+Applications;Exploring+Cloud+Technologies;Learning+DevOps+Practices;Always+Improving+🚀"/>
 
@@ -20,43 +25,36 @@
 
 </div>
 
-<br><br>
-
-<div align="left">
-
-<h2>✨ A Little About Me</h2>
-
-</div>
-
-<p align="center">
-
-I'm <b>Rusiru Oshada</b>, a 3rd Year <b>Bachelor of Information Technology undergraduate at the University of Colombo School of Computing (UCSC)</b>.
 
 <br>
 
-I enjoy building modern web applications and exploring the engineering behind reliable software systems.
 
-<br>
-
-My journey started with <b>Full Stack Development</b>, and I am currently <b>building DevOps skills</b> through cloud technologies, automation, Linux, containers, and modern development practices.
-
-</p>
-
-<br>
+## ✨ About Me
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Currently-Learning%20Cloud%20%26%20DevOps-38BDF8?style=for-the-badge&logo=rocket&logoColor=white"/>
+<table>
+<tr>
+<td width="750">
+
+I'm **Rusiru Oshada**, a 3rd Year **Bachelor of Information Technology undergraduate at the University of Colombo School of Computing (UCSC)**.
+
+I enjoy building modern web applications and exploring the engineering practices behind reliable software systems.
+
+My journey started with **Full Stack Development**, and I am currently **building DevOps skills** by exploring cloud technologies, automation, Linux, containers, and modern deployment workflows.
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br><br><br>
 
-<div align="left">
+<br>
 
-<h2>🌱 Current Focus</h2>
 
-</div>
+## 🌱 Currently Exploring
+
 
 <div align="center">
 
@@ -64,43 +62,90 @@ My journey started with <b>Full Stack Development</b>, and I am currently <b>bui
 
 <tr>
 
-<td align="center" width="260">
+<td width="260" align="center">
 
-<h3>🏗️ Build</h3>
+<h3>☁️ Cloud</h3>
 
-Building modern
-full-stack applications
-
-<br><br>
+Exploring cloud platforms and understanding how applications are deployed and managed.
 
 </td>
 
-<td align="center" width="260">
 
-<h3>⚙️ Improve</h3>
+<td width="260" align="center">
 
-Strengthening
-engineering practices
+<h3>⚙️ DevOps</h3>
 
-<br><br>
+Learning automation, CI/CD workflows, and practices that improve software delivery.
 
 </td>
 
-<td align="center" width="260">
 
-<h3>☁️ Explore</h3>
+<td width="260" align="center">
 
-Understanding cloud
-and infrastructure
+<h3>🐳 Containers</h3>
 
-<br><br>
+Building knowledge around containerization and modern infrastructure.
+
 </td>
+
 </tr>
+
 </table>
 
 </div>
 
-<br><br><br>
+
+<br>
+
+
+## 🛠️ Development Toolkit
+
+
+<div align="center">
+
+
+<h3>👨‍💻 Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java"/>
+
+
+<br><br>
+
+
+<h3>🎨 Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux"/>
+
+
+<br><br>
+
+
+<h3>⚙️ Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql"/>
+
+
+<br><br>
+
+
+<h3>🗄️ Database</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+
+
+<br><br>
+
+
+<h3>☁️ Cloud & DevOps</h3>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,githubactions,git"/>
+
+
+</div>
+
+
+<br>
+
 
 <div align="left">
 
