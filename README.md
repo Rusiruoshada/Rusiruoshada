@@ -282,7 +282,7 @@ An AI prompt-sharing platform where users can create and discover creative AI pr
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Rusiruoshada/Rusiruoshada/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Rusiruoshada/Rusiruoshada/gh-pages/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 <br>
