@@ -21,24 +21,24 @@
 </div>
 
 <br><br>
-
+<div align="center">
 # ✨ A Little About Me
+</div>
 
 I'm **Rusiru Oshada**, a 3rd Year **Bachelor of Information Technology undergraduate at the University of Colombo School of Computing (UCSC)**.
 
 I enjoy building modern web applications and exploring the engineering behind reliable software systems.
 
 My journey started with **Full Stack Development**, and I am currently **building DevOps skills** through cloud technologies, automation, Linux, containers, and modern development practices.
-
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=4000&pause=1500&color=22D3EE&center=true&vCenter=true&width=700&lines=Currently+Learning+%3A+Cloud+%7C+Automation+%7C+DevOps;Building+Skills+One+Project+At+A+Time+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=4000&pause=1500&color=22D3EE&center=true&vCenter=true&width=700&lines=Currently+Learning+%3A+Cloud+%7C+Automation+%7C+DevOps;Learning+fast+Building+skills"/>
 
 <br><br>
 
-# 🚀 Current Focus
+# 🌱 Current Focus
 
 <div align="center">
 
@@ -82,7 +82,6 @@ infrastructure
 <br><br>
 
 # ⚡ Technology Stack
-
 👨‍💻 Languages
 
 <p>
@@ -152,7 +151,7 @@ infrastructure
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </p>
-
+<br><br>
 
 
 
