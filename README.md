@@ -301,19 +301,20 @@ An AI prompt-sharing platform where users can create and discover creative AI pr
 
 </div>
 
-<br><br>
-
+<!--
 ## ⚡ Recent Activity
-
+-->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+<!--
 <br>
+
 ## 📊 Metrics
 
 <p align="center">
 <img src="./metrics.svg" width="100%">
 </p>
-
+-->
 <br>
 
 <div align="center">
