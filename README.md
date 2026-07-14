@@ -1,3 +1,8 @@
+<style>
+    *{background-color: red;color: white;}
+
+</style>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Rusiru%20Oshada&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20DevOps%20Skills&descAlignY=58&animation=fadeIn"/>
@@ -9,13 +14,8 @@
 
 <h1>👨‍💻 Hello, I'm Rusiru Oshada</h1>
 
-<h3>💻 3rd Year BIT Undergraduate @ UCSC</h3>
-
-<p>
-🚀 Full Stack Developer <br>
-☁️ Building DevOps Skills <br>
-🌱 Learning Cloud & Automation
-</p>
+<h3>💻 3rd Year BIT Undergraduate @ UCSC</h3> 
+<h3>🚀 Full Stack Developer | Building DevOps Skills</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Modern+Applications;Exploring+Cloud+Technologies;Learning+DevOps+Practices;Always+Improving+🚀"/>
 
@@ -35,7 +35,7 @@
 
 <table>
 <tr>
-<td width="750">
+<td width="850">
 
 I'm **Rusiru Oshada**, a 3rd Year **Bachelor of Information Technology undergraduate at the University of Colombo School of Computing (UCSC)**.
 
@@ -47,9 +47,56 @@ My journey started with **Full Stack Development**, and I am currently **buildin
 </tr>
 </table>
 
+<br>
+<h4> 😄 A Few Things About Me </h4>
+
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="220">
+
+<b>🎮 Gaming</b>
+
+<br>
+
+Exploring new worlds
+<br>
+</td>
+
+
+<td align="center" width="220">
+
+<b>🎧 Music</b>
+
+<br>
+
+My coding companion
+<br>
+</td>
+
+
+<td align="center" width="220">
+
+<b>🐧 Linux</b>
+
+<br>
+
+A place to experiment
+<br>
+</td>
+
+</tr>
+
+</table>
+
+</div>
 </div>
 
-
+<br>
 <br>
 
 
@@ -64,10 +111,10 @@ My journey started with **Full Stack Development**, and I am currently **buildin
 
 <td width="260" align="center">
 
-<h3>☁️ Cloud</h3>
+<h3>☁️ Explore</h3>
 
 Exploring cloud platforms and understanding how applications are deployed and managed.
-
+<br>
 </td>
 
 
@@ -76,7 +123,7 @@ Exploring cloud platforms and understanding how applications are deployed and ma
 <h3>⚙️ DevOps</h3>
 
 Learning automation, CI/CD workflows, and practices that improve software delivery.
-
+<br>
 </td>
 
 
@@ -85,7 +132,7 @@ Learning automation, CI/CD workflows, and practices that improve software delive
 <h3>🐳 Containers</h3>
 
 Building knowledge around containerization and modern infrastructure.
-
+<br>
 </td>
 
 </tr>
@@ -95,7 +142,7 @@ Building knowledge around containerization and modern infrastructure.
 </div>
 
 
-<br>
+
 
 
 ## 🛠️ Development Toolkit
@@ -107,7 +154,7 @@ Building knowledge around containerization and modern infrastructure.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
 <h3 align="center">👨‍💻 Languages</h3>
 
@@ -120,7 +167,7 @@ Building knowledge around containerization and modern infrastructure.
 </td>
 
 
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
 <h3 align="center">🎨 Frontend</h3>
 
@@ -137,7 +184,7 @@ Building knowledge around containerization and modern infrastructure.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
 <h3 align="center">⚙️ Backend</h3>
 
@@ -150,7 +197,7 @@ Building knowledge around containerization and modern infrastructure.
 </td>
 
 
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
 <h3 align="center">🗄️ Database</h3>
 
@@ -197,26 +244,6 @@ Building knowledge around containerization and modern infrastructure.
 
 
 <div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rusiruoshada&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
-
-</td>
-
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rusiruoshada&layout=compact&hide_border=true&theme=tokyonight"/>
-
-</td>
-
-</tr>
-
-</table>
 
 <br>
 
@@ -304,7 +331,7 @@ A full-stack campground platform where users can discover, review, and manage ca
 
 <p align="center">
 
-A modern ecommerce platform focused on smooth shopping experiences, authentication, and state management.
+A modern ecommerce platform site on smooth shopping experiences, authentication, and state management.
 
 </p>
 
@@ -416,63 +443,6 @@ An AI prompt-sharing platform where users can create and discover creative AI pr
 <br>
 
 
-## 😄 A Few Things About Me
-
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="220">
-
-🎮
-
-<b>Gaming</b>
-
-<br>
-
-Exploring new worlds
-
-</td>
-
-
-<td align="center" width="220">
-
-🎧
-
-<b>Music</b>
-
-<br>
-
-My coding companion
-
-</td>
-
-
-<td align="center" width="220">
-
-🐧
-
-<b>Linux</b>
-
-<br>
-
-A place to experiment
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-
-<br>
-
-
 ## 🤝 Let's Connect
 
 
@@ -481,14 +451,14 @@ A place to experiment
 
 <a href="https://www.linkedin.com/in/connectwithroms/">
 
-<img src="https://img.shields.io/badge/LinkedIn-Rusiru%20Oshada-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
 
 <a href="mailto:rusirusamaraweera749@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
@@ -501,14 +471,15 @@ A place to experiment
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:2563EB,100:0F172A&section=footer"/>
+    <h3>
+     🤟 Thanks for visiting my profile 🤟
+    </h3>
+    
+    <p>
+    ❤️ Keep Learning • Keep Building • Keep Automating ❤️
+    </p>
 
-<h3>
-Thanks for visiting my profile 🚀
-</h3>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:2563EB,100:0F172A&section=footer"/>
 
-<p>
-Keep Learning • Keep Building • Keep Automating 💙
-</p>
 
 </div>
