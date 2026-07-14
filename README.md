@@ -94,7 +94,7 @@ A place to experiment
 
 <h3>☁️ Explore</h3>
 Exploring cloud platforms and understanding how applications are deployed and managed.
-<br>
+<br><br>
 </td>
 
 
@@ -102,7 +102,7 @@ Exploring cloud platforms and understanding how applications are deployed and ma
    
 <h3>⚙️ DevOps</h3>
 Learning automation, CI/CD workflows, and practices that improve software delivery.
-<br>
+<br><br>
 </td>
 
 
@@ -111,7 +111,7 @@ Learning automation, CI/CD workflows, and practices that improve software delive
 <h3>🐳 Containers</h3>
 
 Building knowledge around containerization and modern infrastructure.
-<br>
+<br><br>
 </td>
 
 </tr>
@@ -128,7 +128,7 @@ Building knowledge around containerization and modern infrastructure.
 <table>
 <tr>
 
-<td width="20%" valign="top">
+<td width="10%" valign="top">
 <h3 align="center">👨‍💻 Languages</h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java"/>
@@ -136,18 +136,15 @@ Building knowledge around containerization and modern infrastructure.
 </td>
 
 
-<td width="20%" valign="top">
+<td width="10%" valign="top">
 <h3 align="center">🎨 Frontend</h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux"/>
 </div>
 </td>
 
-</tr>
 
-
-<tr>
-<td width="20%" valign="top">
+<td width="10%" valign="top">
 <h3 align="center">⚙️ Backend</h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql"/>
@@ -155,7 +152,7 @@ Building knowledge around containerization and modern infrastructure.
 </td>
 
 
-<td width="20%" valign="top">
+<td width="10%" valign="top">
 <h3 align="center">🗄️ Database</h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
@@ -166,7 +163,8 @@ Building knowledge around containerization and modern infrastructure.
 
 
 <tr>
-<td colspan="2" align="center">
+
+<td colspan="4" align="center">
 <h3>☁️ Cloud & DevOps</h3>
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,githubactions,git"/>
 </td>
