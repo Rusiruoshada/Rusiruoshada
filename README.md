@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Rusiru%20Oshada&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=DevOps%20Engineer%20in%20Progress%20|%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Rusiru%20Oshada&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20DevOps%20Skills&descAlignY=58&animation=fadeIn"/>
 
 </div>
 
@@ -8,130 +8,81 @@
 
 # 👋 Hello, I'm Rusiru Oshada
 
-### 💻 Bachelor of Information Technology Undergraduate @ UCSC
+### 💻 3rd Year BIT Undergraduate @ University of Colombo School of Computing (UCSC)
 
-### ☁️ Full Stack Developer → DevOps Engineer in Progress
+### 🚀 Full Stack Developer | Building DevOps Skills
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+Scalable+Applications;Learning+Cloud+%26+DevOps;Linux+Enthusiast;Automation+with+Python;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+Modern+Web+Applications;Learning+Cloud+%26+DevOps;Exploring+Automation+%26+Infrastructure;Always+Learning+Something+New+🚀"/>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Rusiruoshada&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Rusiruoshada&style=for-the-badge&color=2563EB"/>
 
 </div>
 
 ---
 
-# 💻 whoami
+# 👨‍💻 About Me
 
-```bash
-$ whoami
+I'm **Rusiru Oshada**, a 3rd Year **Bachelor of Information Technology undergraduate at UCSC** passionate about building modern web applications and exploring the systems behind them.
 
-Rusiru Oshada
-
-$ education
-
-Bachelor of Information Technology
-University of Colombo School of Computing (UCSC)
-
-Expected Graduation
-2027
-
-$ current_role
-
-Third Year Undergraduate
-
-$ focus
-
-Full Stack Development
-DevOps
-Cloud Computing
-Automation
-Linux
-
-$ currently_learning
-
-Advanced Python Automation
-
-Docker
-
-AWS
-
-Infrastructure
-
-$ hobbies
-
-Gaming 🎮
-
-Anime 🍜
-
-Music 🎧
-
-$ motto
-
-Learn • Build • Automate • Repeat 🚀
-```
+My foundation is in **Full Stack Development**, and I am currently building my DevOps skills by learning cloud technologies, automation, Linux, containers, and modern software delivery practices.
 
 ---
 
-# 🚀 About Me
+# 🖥️ developer.profile
 
-Hi there! 👋
-
-I'm **Rusiru Oshada**, a **third-year Bachelor of Information Technology undergraduate** at the **University of Colombo School of Computing (UCSC)** with a strong passion for designing, building, and automating modern software systems.
-
-My journey started with **Full Stack Development**, where I built applications using **React, TypeScript, Node.js, Express, MongoDB, PostgreSQL, and MySQL**. As I explored software engineering further, I became increasingly interested in what happens **after the application is built**—deployment, scalability, automation, cloud infrastructure, monitoring, and reliability.
-
-Today, I'm actively transitioning into the **DevOps ecosystem**, focusing on Linux, cloud technologies, CI/CD, Infrastructure as Code, containers, and automation using Python.
-
-I enjoy solving real-world problems, continuously learning new technologies, and improving the way software is built, deployed, and maintained.
-
-> **"Every project is another opportunity to learn something new."**
-
----
-
-# 🌱 Current Learning Journey
+<div align="center">
 
 ```text
-🐍 Advanced Python Automation
-
-☁️ AWS Cloud Fundamentals
-
-🐳 Docker & Containerization
-
-🐧 Linux Administration
-
-⚙️ Infrastructure & Automation
-
-🚀 DevOps Best Practices
+┌──────────────────────────────────┐
+│        developer.profile         │
+├──────────────────────────────────┤
+│                                  │
+│  👨‍💻 Role                        │
+│  Full Stack Developer            │
+│                                  │
+│  🎓 Education                    │
+│  BIT Undergraduate @ UCSC        │
+│                                  │
+│  🚀 Current Focus                │
+│  Building DevOps Skills          │
+│                                  │
+│  🌱 Exploring                    │
+│  Cloud • Automation • Linux      │
+│  Containers • CI/CD              │
+│                                  │
+│  💡 Philosophy                   │
+│  Learn • Build • Improve         │
+│                                  │
+└──────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
-# 🎯 Career Vision
+# 🌱 Currently Exploring
 
-```text
-Frontend Development
-        │
-        ▼
-Full Stack Development
-        │
-        ▼
-Automation Engineering
-        │
-        ▼
-Cloud Computing
-        │
-        ▼
-DevOps Engineering
-        │
-        ▼
-Platform Engineering 🚀
-```
+<div align="center">
+
+|     ☁️ Cloud     |    🐳 Containers   |   ⚙️ Automation   |
+| :--------------: | :----------------: | :---------------: |
+| AWS Fundamentals |       Docker       | Python Automation |
+|  Infrastructure  | Container Concepts |  CI/CD Practices  |
+
+<br>
+
+|       🐧 Linux       | 🔧 Development Tools |
+| :------------------: | :------------------: |
+| Linux Administration |     Git & GitHub     |
+|  Shell Fundamentals  |  Developer Workflows |
+
+</div>
 
 ---
 
-# ⚡ Development Toolbox
+# ⚡ Technology Stack
 
 ## 👨‍💻 Languages
 
@@ -145,17 +96,7 @@ Platform Engineering 🚀
 
 <img src="https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-
 </p>
-
----
 
 ## 🎨 Frontend
 
@@ -165,17 +106,11 @@ Platform Engineering 🚀
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
 
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
-
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
-
-<img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=antdesign"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
 
 </p>
-
----
 
 ## ⚙️ Backend
 
@@ -187,107 +122,40 @@ Platform Engineering 🚀
 
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 
-<img src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
 
 </p>
 
----
-
-## 🗄️ Databases
+## 🗄️ Database
 
 <p>
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
 
-</p>
-
----
-
-## 🎨 UI / UX
-
-<p>
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
-
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop"/>
-
-<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobexd"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
 </p>
 
----
-
-## ☁️ DevOps & Cloud Journey
-
-> **Currently building my DevOps skillset one technology at a time.**
+## ☁️ DevOps & Tools
 
 <p>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash"/>
+<img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-Future-326CE5?style=for-the-badge&logo=kubernetes"/>
-
-<img src="https://img.shields.io/badge/Terraform-Future-7B42BC?style=for-the-badge&logo=terraform"/>
-
-<img src="https://img.shields.io/badge/Jenkins-Future-D24939?style=for-the-badge&logo=jenkins"/>
-
-<img src="https://img.shields.io/badge/Ansible-Future-EE0000?style=for-the-badge&logo=ansible"/>
-
-<img src="https://img.shields.io/badge/Prometheus-Future-E6522C?style=for-the-badge&logo=prometheus"/>
-
-<img src="https://img.shields.io/badge/Grafana-Future-F46800?style=for-the-badge&logo=grafana"/>
-
-<img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </p>
-
----
-
-# 📚 Currently Working Toward
-
-- ✅ Strengthening Linux fundamentals
-- ✅ Advanced Python automation
-- 🔄 Docker & containerization
-- 🔄 AWS Cloud Practitioner
-- 🔄 Infrastructure as Code
-- ⏳ Kubernetes
-- ⏳ Terraform Associate
-- ⏳ RHCSA
-- ⏳ Certified Kubernetes Administrator (CKA)
-
-<!-- ====================================================== -->
-
-<!--
-
-🏅 Future Certifications
-
-AWS Cloud Practitioner
-
-RHCSA
-
-Terraform Associate
-
-CKA
-
--->
-
-<!-- ====================================================== -->
-
----
+<!-- -- part 2 from here-- -->
 
 # 📊 GitHub Analytics
 
