@@ -103,126 +103,83 @@ Building knowledge around containerization and modern infrastructure.
 
 <div align="center">
 
+<table>
 
-<h3>👨‍💻 Languages</h3>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">👨‍💻 Languages</h3>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java"/>
 
+</div>
 
-<br><br>
+</td>
 
 
-<h3>🎨 Frontend</h3>
+<td width="50%" valign="top">
+
+<h3 align="center">🎨 Frontend</h3>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux"/>
 
+</div>
 
-<br><br>
+</td>
+
+</tr>
 
 
-<h3>⚙️ Backend</h3>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚙️ Backend</h3>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql"/>
 
+</div>
 
-<br><br>
+</td>
 
 
-<h3>🗄️ Database</h3>
+<td width="50%" valign="top">
+
+<h3 align="center">🗄️ Database</h3>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
 
+</div>
 
-<br><br>
+</td>
 
+</tr>
+
+
+<tr>
+
+<td colspan="2" align="center">
 
 <h3>☁️ Cloud & DevOps</h3>
 
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,githubactions,git"/>
 
+</td>
+
+</tr>
+
+</table>
 
 </div>
-
-
-<br>
-
-
-<div align="left">
-
-<h2>⚡ Technology Stack</h2>
-
-</div>
-
-<h3>👨‍💻 Languages</h3>
-
-<p>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-</p>
-
-<h3>🎨 Frontend</h3>
-
-<p>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
-
-</p>
-
-<h3>⚙️ Backend</h3>
-
-<p>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
-
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
-
-</p>
-
-<h3>🗄️ Database</h3>
-
-<p>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-</p>
-
-<h3>☁️ DevOps & Tools</h3>
-
-<p>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-</p>
-
 <br><br>
 
 
@@ -234,159 +191,233 @@ Building knowledge around containerization and modern infrastructure.
 <!-- ======================================================================================================================== -->
 <!-- -- part 2 from here-- -->
 
+<br>
 
-<h2>📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
-</div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rusiruoshada&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<table>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rusiruoshada&layout=compact&theme=tokyonight&hide_border=true"/>
+<tr>
 
-</div>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rusiruoshada&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rusiruoshada&layout=compact&hide_border=true&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rusiruoshada&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Rusiruoshada&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br><br>
-
-<div align="center">
-
-<h2>📈 Contribution Activity</h2>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rusiruoshada&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
-<br><br>
-
-<!-- GitHub Trophies (Enable Later) <div align="center"> <h2>🏆 GitHub Achievements</h2> <img src="https://github-profile-trophy.vercel.app/?username=Rusiruoshada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/> </div> -->
-
-
-
-
-<div align="center">
-
-<h2>🚀 Featured Projects</h2>
-
-</div>
 
 <br>
 
+
+## 📈 Contribution Activity
+
+
 <div align="center">
 
-🏕️ YelpCamp
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rusiruoshada&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+
+<br>
+
+
+<!-- GitHub Trophies (Enable Later)
+
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rusiruoshada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+-->
+
+
+<br>
+
+
+## 🚀 Featured Projects
+
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+
+<h3 align="center">🏕️ YelpCamp</h3>
+
+<p align="center">
 
 A full-stack campground platform where users can discover, review, and manage camping locations.
 
-<br>
+</p>
 
-<img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Express%20%7C%20MongoDB%20%7C%20EJS-2563EB?style=for-the-badge"/>
+<p align="center">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+</p>
+
+<p align="center">
 
 <a href="https://github.com/Rusiruoshada/Yelp-Camp">
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
-</div>
+</p>
 
-<br><br><br>
 
-<div align="center">
+</td>
 
-🛒 Lyvivo
 
-A modern full-stack ecommerce platform built for smooth shopping experiences with authentication, payments, and state management.
+<td width="50%" valign="top">
 
-<br>
 
-<img src="https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20MongoDB-2563EB?style=for-the-badge"/>
+<h3 align="center">🛒 Lyvivo</h3>
 
-<br><br>
+<p align="center">
+
+A modern ecommerce platform focused on smooth shopping experiences, authentication, and state management.
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,mongodb"/>
+
+</p>
+
+<p align="center">
 
 <a href="https://github.com/Rusiruoshada/Lyvivo">
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
-</div>
+</p>
 
-<br><br><br>
 
-<div align="center">
+</td>
 
-👕 Sick Fit
+</tr>
 
-A modern clothing ecommerce application focused on clean UI, user experience, and secure application flow.
 
-<br>
+<tr>
 
-<img src="https://img.shields.io/badge/Stack-React%20%7C%20GraphQL%20%7C%20MongoDB-2563EB?style=for-the-badge"/>
+<td width="50%" valign="top">
 
-<br><br>
+
+<h3 align="center">👕 Sick Fit</h3>
+
+<p align="center">
+
+A clothing ecommerce application focused on clean UI, user experience, and secure application flow.
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,graphql,mongodb"/>
+
+</p>
+
+<p align="center">
 
 <a href="https://github.com/Rusiruoshada/Sick-fit">
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
-</div>
+</p>
 
-<br><br><br>
 
-<div align="center">
+</td>
 
-🤖 Promptopia
 
-An AI prompt-sharing platform where users can create, discover, and share creative AI prompts.
+<td width="50%" valign="top">
 
-<br>
 
-<img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20React%20%7C%20MongoDB%20%7C%20Tailwind-2563EB?style=for-the-badge"/>
+<h3 align="center">🤖 Promptopia</h3>
 
-<br><br>
+<p align="center">
+
+An AI prompt-sharing platform where users can create and discover creative AI prompts.
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,tailwind"/>
+
+</p>
+
+<p align="center">
 
 <a href="https://github.com/Rusiruoshada/javascript_mastery">
 
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
+</p>
+
+
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
-<br><br>
+
+<br>
+
+
+## 🐍 Contribution Snake
+
 
 <div align="center">
-
-<h2>🐍 Contribution Snake</h2>
 
 <img src="https://raw.githubusercontent.com/Rusiruoshada/Rusiruoshada/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
-<br><br>
 
-<div align="center">
+<br>
 
-<h2>😄 A Few Things About Me</h2>
 
-</div>
+## 😄 A Few Things About Me
+
 
 <div align="center">
 
@@ -397,6 +428,7 @@ An AI prompt-sharing platform where users can create, discover, and share creati
 <td align="center" width="220">
 
 🎮
+
 <b>Gaming</b>
 
 <br>
@@ -405,9 +437,11 @@ Exploring new worlds
 
 </td>
 
+
 <td align="center" width="220">
 
 🎧
+
 <b>Music</b>
 
 <br>
@@ -416,14 +450,16 @@ My coding companion
 
 </td>
 
+
 <td align="center" width="220">
 
 🐧
+
 <b>Linux</b>
 
 <br>
 
-Making it feel like home
+A place to experiment
 
 </td>
 
@@ -433,34 +469,46 @@ Making it feel like home
 
 </div>
 
-<br><br>
+
+<br>
+
+
+## 🤝 Let's Connect
+
 
 <div align="center">
 
-<h2>🤝 Let's Connect</h2>
 
 <a href="https://www.linkedin.com/in/connectwithroms/">
 
-<img src="https://img.shields.io/badge/LinkedIn-Rusiru%20Oshada-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Rusiru%20Oshada-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
+
 
 <a href="mailto:rusirusamaraweera749@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
+
 </div>
 
-<br><br>
+
+<br>
+
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:2563EB,100:0F172A&section=footer"/>
 
-<h3> Thanks for visiting my profile 🚀 </h3>
+<h3>
+Thanks for visiting my profile 🚀
+</h3>
 
-<p> Keep Learning • Keep Building • Keep Automating 💙 </p>
+<p>
+Keep Learning • Keep Building • Keep Automating 💙
+</p>
 
 </div>
