@@ -8,11 +8,11 @@
 
 # 👋 Hello, I'm Rusiru Oshada
 
-### 💻 3rd Year BIT Undergraduate @ University of Colombo School of Computing (UCSC)
+### 💻 3rd Year BIT Undergraduate @ UCSC
 
-### 🚀 Full Stack Developer | Building DevOps Skills
+### 🚀 Full Stack Developer → Building DevOps Skills
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+Modern+Web+Applications;Learning+Cloud+%26+DevOps;Exploring+Automation+%26+Infrastructure;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Exploring+Cloud+%26+Automation;Learning+DevOps+Practices;Improving+One+Project+At+A+Time+🚀"/>
 
 <br>
 
@@ -20,67 +20,105 @@
 
 </div>
 
----
+<br>
 
-# 👨‍💻 About Me
-
-I'm **Rusiru Oshada**, a 3rd Year **Bachelor of Information Technology undergraduate at UCSC** passionate about building modern web applications and exploring the systems behind them.
-
-My foundation is in **Full Stack Development**, and I am currently building my DevOps skills by learning cloud technologies, automation, Linux, containers, and modern software delivery practices.
-
----
-
-# 🖥️ developer.profile
+# 👋 About Me
 
 <div align="center">
 
-```text
-┌──────────────────────────────────┐
-│        developer.profile         │
-├──────────────────────────────────┤
-│                                  │
-│  👨‍💻 Role                        │
-│  Full Stack Developer            │
-│                                  │
-│  🎓 Education                    │
-│  BIT Undergraduate @ UCSC        │
-│                                  │
-│  🚀 Current Focus                │
-│  Building DevOps Skills          │
-│                                  │
-│  🌱 Exploring                    │
-│  Cloud • Automation • Linux      │
-│  Containers • CI/CD              │
-│                                  │
-│  💡 Philosophy                   │
-│  Learn • Build • Improve         │
-│                                  │
-└──────────────────────────────────┘
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=I+build+web+applications+with+modern+technologies;I+enjoy+solving+problems+through+code;Currently+expanding+into+Cloud+%26+DevOps"/>
+
+</div>
+
+I'm **Rusiru Oshada**, a 3rd Year **Bachelor of Information Technology undergraduate at the University of Colombo School of Computing (UCSC)**.
+
+My journey started with **Full Stack Development**, building applications and exploring software engineering. Currently, I am **building DevOps skills** by learning cloud technologies, automation, Linux, containers, and modern development workflows.
+
+<br>
+
+# 🚀 Developer Command Center
+
+<div align="center">
+
+```text id="m4z8x1"
+╭────────────────────────────────────╮
+│  rusiru@github ~ developer.mode    │
+├────────────────────────────────────┤
+│                                    │
+│  👨‍💻 CURRENT ROLE                  │
+│  Full Stack Developer              │
+│                                    │
+│  🎯 CURRENT MISSION                │
+│  Building DevOps Skills            │
+│                                    │
+│  🌱 LEARNING                       │
+│  Cloud ☁️  Automation ⚙️  Linux 🐧 │
+│                                    │
+│  🔍 EXPLORING                      │
+│  Containers • CI/CD • Infrastructure│
+│                                    │
+│  💡 MINDSET                        │
+│  Learn → Build → Improve 🚀        │
+│                                    │
+╰────────────────────────────────────╯
 ```
 
 </div>
 
----
+<br>
 
-# 🌱 Currently Exploring
+# 🌱 Current Focus
 
 <div align="center">
 
-|     ☁️ Cloud     |    🐳 Containers   |   ⚙️ Automation   |
-| :--------------: | :----------------: | :---------------: |
-| AWS Fundamentals |       Docker       | Python Automation |
-|  Infrastructure  | Container Concepts |  CI/CD Practices  |
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🏗️ Build
+
+Creating scalable
+full-stack applications
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Improve
+
+Learning automation
+and engineering practices
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ Explore
+
+Understanding cloud
+and infrastructure
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-|       🐧 Linux       | 🔧 Development Tools |
-| :------------------: | :------------------: |
-| Linux Administration |     Git & GitHub     |
-|  Shell Fundamentals  |  Developer Workflows |
+```
+Full Stack Development
+          ↓
+Building DevOps Skills
+          ↓
+Cloud & Infrastructure
+          ↓
+Reliable Software Systems 🚀
+```
 
 </div>
 
----
+<br>
 
 # ⚡ Technology Stack
 
@@ -122,8 +160,6 @@ My foundation is in **Full Stack Development**, and I am currently building my D
 
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-
 </p>
 
 ## 🗄️ Database
@@ -155,6 +191,15 @@ My foundation is in **Full Stack Development**, and I am currently building my D
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </p>
+
+
+
+
+
+
+<!-- ======================================================================================================================== -->
+<!-- ======================================================================================================================== -->
+<!-- ======================================================================================================================== -->
 <!-- -- part 2 from here-- -->
 
 # 📊 GitHub Analytics
