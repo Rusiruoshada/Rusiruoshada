@@ -1,8 +1,3 @@
-<style>
-    *{background-color: red;color: white;}
-
-</style>
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Rusiru%20Oshada&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20DevOps%20Skills&descAlignY=58&animation=fadeIn"/>
@@ -58,39 +53,28 @@ My journey started with **Full Stack Development**, and I am currently **buildin
 <tr>
 
 <td align="center" width="220">
-
 <b>🎮 Gaming</b>
-
 <br>
-
 Exploring new worlds
 <br>
 </td>
 
-
 <td align="center" width="220">
-
 <b>🎧 Music</b>
-
 <br>
-
 My coding companion
 <br>
 </td>
 
 
 <td align="center" width="220">
-
 <b>🐧 Linux</b>
-
 <br>
-
 A place to experiment
 <br>
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -101,27 +85,22 @@ A place to experiment
 
 
 ## 🌱 Currently Exploring
-
-
 <div align="center">
 
 <table>
-
 <tr>
 
 <td width="260" align="center">
 
 <h3>☁️ Explore</h3>
-
 Exploring cloud platforms and understanding how applications are deployed and managed.
 <br>
 </td>
 
 
 <td width="260" align="center">
-
+   
 <h3>⚙️ DevOps</h3>
-
 Learning automation, CI/CD workflows, and practices that improve software delivery.
 <br>
 </td>
@@ -136,9 +115,7 @@ Building knowledge around containerization and modern infrastructure.
 </td>
 
 </tr>
-
 </table>
-
 </div>
 
 
@@ -146,90 +123,59 @@ Building knowledge around containerization and modern infrastructure.
 
 
 ## 🛠️ Development Toolkit
-
-
 <div align="center">
 
 <table>
-
 <tr>
 
 <td width="20%" valign="top">
-
 <h3 align="center">👨‍💻 Languages</h3>
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java"/>
-
 </div>
-
 </td>
 
 
 <td width="20%" valign="top">
-
 <h3 align="center">🎨 Frontend</h3>
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux"/>
-
 </div>
-
 </td>
 
 </tr>
 
 
 <tr>
-
 <td width="20%" valign="top">
-
 <h3 align="center">⚙️ Backend</h3>
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql"/>
-
 </div>
-
 </td>
 
 
 <td width="20%" valign="top">
-
 <h3 align="center">🗄️ Database</h3>
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
-
 </div>
-
 </td>
 
 </tr>
 
 
 <tr>
-
 <td colspan="2" align="center">
-
 <h3>☁️ Cloud & DevOps</h3>
-
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,githubactions,git"/>
-
 </td>
 
 </tr>
-
 </table>
-
 </div>
+
 <br><br>
-
-
 
 
 
@@ -237,8 +183,6 @@ Building knowledge around containerization and modern infrastructure.
 <!-- ======================================================================================================================== -->
 <!-- ======================================================================================================================== -->
 <!-- -- part 2 from here-- -->
-
-<br>
 
 ## 📊 GitHub Analytics
 
@@ -290,70 +234,46 @@ Building knowledge around containerization and modern infrastructure.
 <div align="center">
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
-
 
 <h3 align="center">🏕️ YelpCamp</h3>
 
 <p align="center">
-
 A full-stack campground platform where users can discover, review, and manage camping locations.
-
 </p>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
 </p>
 
 <p align="center">
-
 <a href="https://github.com/Rusiruoshada/Yelp-Camp">
-
 <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
 </p>
-
-
 </td>
 
 
 <td width="50%" valign="top">
 
-
 <h3 align="center">🛒 Lyvivo</h3>
 
 <p align="center">
-
 A modern ecommerce platform site on smooth shopping experiences, authentication, and state management.
-
 </p>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,mongodb"/>
-
 </p>
 
 <p align="center">
-
 <a href="https://github.com/Rusiruoshada/Lyvivo">
-
 <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
 </p>
-
-
 </td>
-
 </tr>
 
 
@@ -361,69 +281,43 @@ A modern ecommerce platform site on smooth shopping experiences, authentication,
 
 <td width="50%" valign="top">
 
-
 <h3 align="center">👕 Sick Fit</h3>
 
 <p align="center">
-
 A clothing ecommerce application focused on clean UI, user experience, and secure application flow.
-
 </p>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,graphql,mongodb"/>
-
 </p>
 
 <p align="center">
-
 <a href="https://github.com/Rusiruoshada/Sick-fit">
-
 <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
 </p>
-
-
 </td>
 
-
 <td width="50%" valign="top">
-
 
 <h3 align="center">🤖 Promptopia</h3>
 
 <p align="center">
-
 An AI prompt-sharing platform where users can create and discover creative AI prompts.
-
 </p>
-
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,tailwind"/>
-
 </p>
 
 <p align="center">
-
 <a href="https://github.com/Rusiruoshada/javascript_mastery">
-
 <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
 </p>
-
-
 </td>
 
 </tr>
-
 </table>
-
 </div>
 
 
@@ -434,52 +328,29 @@ An AI prompt-sharing platform where users can create and discover creative AI pr
 
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Rusiruoshada/Rusiruoshada/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
-
 
 <br>
 
-
 ## 🤝 Let's Connect
-
-
 <div align="center">
-
-
+   
 <a href="https://www.linkedin.com/in/connectwithroms/">
-
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 
 <a href="mailto:rusirusamaraweera749@gmail.com">
-
 <img src="https://img.shields.io/badge/Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
-
 
 </div>
 
-
 <br>
 
-
 <div align="center">
-
-    <h3>
-     🤟 Thanks for visiting my profile 🤟
-    </h3>
-    
-    <p>
-    ❤️ Keep Learning • Keep Building • Keep Automating ❤️
-    </p>
-
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:2563EB,100:0F172A&section=footer"/>
-
-
+<h3>🤟 Thanks for visiting my profile 🤟</h3>
+<p>❤️ Keep Learning • Keep Building • Keep Automating ❤️</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:2563EB,100:0F172A&section=footer"/>
 </div>
