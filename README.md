@@ -38,47 +38,29 @@ I enjoy building modern web applications and exploring the engineering practices
 
 My journey started with **Full Stack Development**, and I am currently **building DevOps skills** by exploring cloud technologies, automation, Linux, containers, and modern deployment workflows.
 
-</td>
-</tr>
-</table>
-
-<br>
 <h4> 😄 A Few Things About Me </h4>
+<div>
+<ul>
+<li>
+<label><b>🎮 Gaming :</b></label>
+<span>Exploring new worlds</span>
+</li>
+<li>
+<label><b>🎧 Music :</b></label>
+<span>My coding companion</span>
+</li>
+<li>
+<label><b>🐧 Linux :</b></label>
+<span>A place to experiment</span>
+</li>
+</ul>
+</div>
 
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="220">
-<b>🎮 Gaming</b>
-<br>
-Exploring new worlds
-<br>
 </td>
-
-<td align="center" width="220">
-<b>🎧 Music</b>
-<br>
-My coding companion
-<br>
-</td>
-
-
-<td align="center" width="220">
-<b>🐧 Linux</b>
-<br>
-A place to experiment
-<br>
-</td>
-
 </tr>
 </table>
+</div>
 
-</div>
-</div>
 
 <br>
 <br>
@@ -175,40 +157,21 @@ Building knowledge around containerization and modern infrastructure.
 
 <br><br>
 
-
-
-<!-- ======================================================================================================================== -->
-<!-- ======================================================================================================================== -->
-<!-- ======================================================================================================================== -->
-<!-- -- part 2 from here-- -->
-
 ## 📊 GitHub Analytics
 
-
 <div align="center">
-
 <br>
-
 <img src="https://streak-stats.demolab.com?user=Rusiruoshada&theme=tokyonight&hide_border=true"/>
-
 </div>
 
-
 <br>
-
 
 ## 📈 Contribution Activity
-
-
 <div align="center">
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rusiruoshada&theme=tokyo-night&hide_border=true&area=true"/>
-
 </div>
 
-
 <br>
-
 
 <!-- GitHub Trophies (Enable Later)
 
@@ -222,22 +185,15 @@ Building knowledge around containerization and modern infrastructure.
 
 -->
 
-
 <br>
 
-
 ## 🚀 Featured Projects
-
-
 <div align="center">
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
-
 <h3 align="center">🏕️ YelpCamp</h3>
-
 <p align="center">
 A full-stack campground platform where users can discover, review, and manage camping locations.
 </p>
