@@ -6,39 +6,57 @@
 
 <div align="center">
 
-# 👨‍💻 Hello, I'm Rusiru Oshada
+<h1>👨‍💻 Hello, I'm Rusiru Oshada</h1>
 
-### 💻 3rd Year BIT Undergraduate @ UCSC
+<h3>💻 3rd Year BIT Undergraduate @ UCSC</h3>
 
-### 🚀 Full Stack Developer | Building DevOps Skills
+<h3>🚀 Full Stack Developer | Building DevOps Skills</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Modern+Applications;Exploring+Cloud+Technologies;Learning+DevOps+Practices;Always+Improving+🚀"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Rusiruoshada&style=for-the-badge&color=2563EB"/>
 
 </div>
 
-<br><br>
+<br><br><br>
+
 <div align="center">
-# ✨ A Little About Me
+
+<h2>✨ A Little About Me</h2>
+
 </div>
 
-I'm **Rusiru Oshada**, a 3rd Year **Bachelor of Information Technology undergraduate at the University of Colombo School of Computing (UCSC)**.
+<p align="center">
+
+I'm <b>Rusiru Oshada</b>, a 3rd Year <b>Bachelor of Information Technology undergraduate at the University of Colombo School of Computing (UCSC)</b>.
+
+<br><br>
 
 I enjoy building modern web applications and exploring the engineering behind reliable software systems.
 
-My journey started with **Full Stack Development**, and I am currently **building DevOps skills** through cloud technologies, automation, Linux, containers, and modern development practices.
+<br><br>
+
+My journey started with <b>Full Stack Development</b>, and I am currently <b>building DevOps skills</b> through cloud technologies, automation, Linux, containers, and modern development practices.
+
+</p>
+
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=4000&pause=1500&color=22D3EE&center=true&vCenter=true&width=700&lines=Currently+Learning+%3A+Cloud+%7C+Automation+%7C+DevOps;Learning+fast+Building+skills"/>
+<img src="https://img.shields.io/badge/Currently-Learning%20Cloud%20%26%20DevOps-38BDF8?style=for-the-badge&logo=rocket&logoColor=white"/>
 
-<br><br>
+</div>
 
-# 🌱 Current Focus
+<br><br><br>
+
+<div align="center">
+
+<h2>🌱 Current Focus</h2>
+
+</div>
 
 <div align="center">
 
@@ -46,31 +64,46 @@ My journey started with **Full Stack Development**, and I am currently **buildin
 
 <tr>
 
-<td align="center" width="250">
+<td align="center" width="260">
 
-## 🏗️ Build
+<h3>🏗️ Build</h3>
 
-Create scalable
-applications
+Building modern
+full-stack applications
+
 <br><br>
+
+💻 Frontend
+⚙️ Backend
+
 </td>
 
-<td align="center" width="250">
+<td align="center" width="260">
 
-## ⚙️ Improve
+<h3>⚙️ Improve</h3>
 
-Better engineering
-practices
+Strengthening
+engineering practices
+
 <br><br>
+
+🧩 Problem Solving
+🚀 Better Systems
+
 </td>
 
-<td align="center" width="250">
+<td align="center" width="260">
 
-## ☁️ Explore
+<h3>☁️ Explore</h3>
 
-Cloud & modern
-infrastructure
+Understanding cloud
+and infrastructure
+
 <br><br>
+
+🐧 Linux
+☁️ Cloud
+
 </td>
 
 </tr>
@@ -79,10 +112,15 @@ infrastructure
 
 </div>
 
-<br><br>
+<br><br><br>
 
-# ⚡ Technology Stack
-👨‍💻 Languages
+<div align="center">
+
+<h2>⚡ Technology Stack</h2>
+
+</div>
+
+<h3>👨‍💻 Languages</h3>
 
 <p>
 
@@ -96,7 +134,7 @@ infrastructure
 
 </p>
 
-🎨 Frontend
+<h3>🎨 Frontend</h3>
 
 <p>
 
@@ -110,7 +148,7 @@ infrastructure
 
 </p>
 
-⚙️ Backend
+<h3>⚙️ Backend</h3>
 
 <p>
 
@@ -122,7 +160,7 @@ infrastructure
 
 </p>
 
-🗄️ Database
+<h3>🗄️ Database</h3>
 
 <p>
 
@@ -134,7 +172,7 @@ infrastructure
 
 </p>
 
-☁️ DevOps & Tools
+<h3>☁️ DevOps & Tools</h3>
 
 <p>
 
@@ -151,7 +189,9 @@ infrastructure
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </p>
+
 <br><br>
+
 
 
 
