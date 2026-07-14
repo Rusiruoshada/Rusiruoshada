@@ -36,46 +36,6 @@ My journey started with **Full Stack Development**, and I am currently **buildin
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=4000&pause=1500&color=22D3EE&center=true&vCenter=true&width=700&lines=Currently+Learning+%3A+Cloud+%7C+Automation+%7C+DevOps;Building+Skills+One+Project+At+A+Time+🚀"/>
 
-</div>
-
-<br><br>
-
-# 🌌 Developer Snapshot
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="250">
-
-### 👨‍💻 Building
-
-Modern Web Applications
-<br><br>
-</td>
-
-<td align="center" width="250">
-
-### 🌱 Learning
-
-Cloud & DevOps Practices
-<br><br>
-</td>
-
-<td align="center" width="250">
-
-### 🧠 Exploring
-
-Automation & Systems
-<br><br>
-</td>
-
-</tr>
-</table>
-
-</div>
-
 <br><br>
 
 # 🚀 Current Focus
