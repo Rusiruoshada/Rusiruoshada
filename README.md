@@ -6,13 +6,13 @@
 
 <div align="center">
 
-# 👋 Hello, I'm Rusiru Oshada
+# 👨‍💻 Hello, I'm Rusiru Oshada
 
 ### 💻 3rd Year BIT Undergraduate @ UCSC
 
-### 🚀 Full Stack Developer → Building DevOps Skills
+### 🚀 Full Stack Developer | Building DevOps Skills
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Exploring+Cloud+%26+Automation;Learning+DevOps+Practices;Improving+One+Project+At+A+Time+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Modern+Applications;Exploring+Cloud+Technologies;Learning+DevOps+Practices;Always+Improving+🚀"/>
 
 <br>
 
@@ -20,177 +20,108 @@
 
 </div>
 
-<br>
+<br><br>
 
-# 👋 About Me
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=I+build+web+applications+with+modern+technologies;I+enjoy+solving+problems+through+code;Currently+expanding+into+Cloud+%26+DevOps"/>
-
-</div>
+# ✨ A Little About Me
 
 I'm **Rusiru Oshada**, a 3rd Year **Bachelor of Information Technology undergraduate at the University of Colombo School of Computing (UCSC)**.
 
-My journey started with **Full Stack Development**, building applications and exploring software engineering. Currently, I am **building DevOps skills** by learning cloud technologies, automation, Linux, containers, and modern development workflows.
+I enjoy building modern web applications and exploring the engineering behind reliable software systems.
+
+My journey started with **Full Stack Development**, and I am currently **building DevOps skills** through cloud technologies, automation, Linux, containers, and modern development practices.
 
 <br>
-
-# 🚀 Developer Command Center
 
 <div align="center">
 
-```text id="m4z8x1"
-╭────────────────────────────────────╮
-│  rusiru@github ~ developer.mode    │
-├────────────────────────────────────┤
-│                                    │
-│  👨‍💻 CURRENT ROLE                  │
-│  Full Stack Developer              │
-│                                    │
-│  🎯 CURRENT MISSION                │
-│  Building DevOps Skills            │
-│                                    │
-│  🌱 LEARNING                       │
-│  Cloud ☁️  Automation ⚙️  Linux 🐧 │
-│                                    │
-│  🔍 EXPLORING                      │
-│  Containers • CI/CD • Infrastructure│
-│                                    │
-│  💡 MINDSET                        │
-│  Learn → Build → Improve 🚀        │
-│                                    │
-╰────────────────────────────────────╯
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=4000&pause=1500&color=22D3EE&center=true&vCenter=true&width=700&lines=Currently+Learning+%3A+Cloud+%7C+Automation+%7C+DevOps;Building+Skills+One+Project+At+A+Time+🚀"/>
 
 </div>
 
-<br>
+<br><br>
 
-# 🌱 Current Focus
+# 🌌 Developer Snapshot
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="250">
 
-### 🏗️ Build
+### 👨‍💻 Building
 
-Creating scalable
-full-stack applications
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ Improve
-
-Learning automation
-and engineering practices
+Modern Web Applications
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="250">
 
-### ☁️ Explore
+### 🌱 Learning
 
-Understanding cloud
-and infrastructure
+Cloud & DevOps Practices
+
+</td>
+
+<td align="center" width="250">
+
+### 🧠 Exploring
+
+Automation & Systems
 
 </td>
 
 </tr>
 </table>
 
-<br>
+</div>
 
-```
-Full Stack Development
-          ↓
-Building DevOps Skills
-          ↓
-Cloud & Infrastructure
-          ↓
-Reliable Software Systems 🚀
-```
+<br><br>
+
+# 🚀 Current Focus
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="250">
+
+## 🏗️ Build
+
+Create scalable
+applications
+
+</td>
+
+<td align="center" width="250">
+
+## ⚙️ Improve
+
+Better engineering
+practices
+
+</td>
+
+<td align="center" width="250">
+
+## ☁️ Explore
+
+Cloud & modern
+infrastructure
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
-<br>
+<br><br>
 
 # ⚡ Technology Stack
-
-## 👨‍💻 Languages
-
-<p>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-</p>
-
-## 🎨 Frontend
-
-<p>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
-
-</p>
-
-## ⚙️ Backend
-
-<p>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
-
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
-
-</p>
-
-## 🗄️ Database
-
-<p>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-</p>
-
-## ☁️ DevOps & Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-</p>
 
 
 
